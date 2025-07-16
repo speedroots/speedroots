@@ -34,7 +34,7 @@
 	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white"></a>
 	<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-14354C.svg?logo=java&logoColor=white"></a>
 	<a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-14354C.svg?logo=c-in-hexagon&logoColor=white"></a>
-	<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/Flask-14354C.svg?logo=flask&logoColor=white"></a>
+	<a href="#"><img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"></a>
 </p>
 
 <summary>
