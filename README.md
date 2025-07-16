@@ -30,7 +30,7 @@
 
 <p>
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-	<a href="#"><img alt="BrightScript" src="https://cdn.iconscout.com/icon/free/png-512/free-roku-icon-download-in-svg-png-gif-file-formats--logo-brand-world-logos-vol-1-pack-icons-282228.png?f=webp&w=256"></a>
+	<a><img alt="BrightScript"></a>
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-14354C.svg?logo=javascript&logoColor=black"></a>
 	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white"></a>
 	<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-14354C.svg?logo=java&logoColor=white"></a>
